@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\licao\bin\Debug\net7.0\licao.exe
+C:\Users\LAB4\Desktop\licao\bin\Debug\net7.0\licao.deps.json
+C:\Users\LAB4\Desktop\licao\bin\Debug\net7.0\licao.runtimeconfig.json
+C:\Users\LAB4\Desktop\licao\bin\Debug\net7.0\licao.dll
+C:\Users\LAB4\Desktop\licao\bin\Debug\net7.0\licao.pdb
+C:\Users\LAB4\Desktop\licao\obj\Debug\net7.0\licao.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\licao\obj\Debug\net7.0\licao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\licao\obj\Debug\net7.0\licao.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\licao\obj\Debug\net7.0\licao.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\licao\obj\Debug\net7.0\licao.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\licao\obj\Debug\net7.0\licao.dll
+C:\Users\LAB4\Desktop\licao\obj\Debug\net7.0\refint\licao.dll
+C:\Users\LAB4\Desktop\licao\obj\Debug\net7.0\licao.pdb
+C:\Users\LAB4\Desktop\licao\obj\Debug\net7.0\licao.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\licao\obj\Debug\net7.0\ref\licao.dll
